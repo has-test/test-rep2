@@ -5,3 +5,4 @@
 HAS のために、commit 増やす！
 
 HAS 追加テスト
+HAS 追加テスト２
